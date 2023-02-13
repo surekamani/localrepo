@@ -1,2 +1,2 @@
-This is to check merge conflict
+This is to check merge conflict!%
 
